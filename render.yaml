@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Iro--md
+    env: docker
+    region: Frankfurt
+    plan: free
