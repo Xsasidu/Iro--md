@@ -122,7 +122,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/KDuVe2JAfv87O0B8lsvO7T"><img a
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/Gu2"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
   
 `guru bot srilanka varshan`
 
